@@ -7,10 +7,11 @@ Après l'installation, pour lancer postgresql, il faudra lancer l'application qu
 Ensuite, il vous faudra créer une utilisateur et un mot de passe.
 
 Ceci fait, on peut enfin créé notre base de données :
-Pour cela, clique droit sur "Base de données" => "Créer" => "Base de données".
-Donner un nom à votre base de données puis cliquer "Enregistrer" en bas de la fenête.
-Ensuite faire Clique droit sur la base créé précédemment puis "Editeur de requête".
-Dans la nouvelle page faire un copier/coller du fichier "donnes2.sql" et cliquer sur le bouton "Executer" qui ressemble à ">" ou appuyer sur F5.
+  - clique droit sur "Base de données" => "Créer" => "Base de données".
+  - Donner un nom à votre base de données puis cliquer "Enregistrer" en bas de la fenêtre.
+  - Ensuite faire Clique droit sur la base créé précédemment puis "Editeur de requête".
+  - Dans la nouvelle page faire un copier/coller du fichier "donnes2.sql" et cliquer sur le bouton "Executer" qui ressemble à ">" ou appuyer sur F5.
+
 La base est maitnenant créé, nous pouvons faire des tests avec des exemple de requêtes du fichier "requete.sql".
 Pour cela effacer ce qu'il ya dans la fenêtre actuelle et copier/coller une requête du fichier ou faire un requete personnelle.
 
